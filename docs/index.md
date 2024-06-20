@@ -25,5 +25,5 @@ features:
   - title: 不重复踩坑
     details: 避免重复难点，快速查阅疑难问题
     link: https://juejin.cn/post/7327893130572824611
-    linkText: 查看
+    linkText: 查看详细
 ---
