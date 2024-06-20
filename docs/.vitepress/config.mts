@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/myVitepress/',
   title: "Meritlink 前端",
   description: "业务逻辑最佳实践&技巧",
   head: [
